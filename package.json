@@ -24,7 +24,7 @@
     "services"
   ],
   "author": "Kristjan Broder Lund (kristjan@lund.is)",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/minigod/searoute/issues"
   },
